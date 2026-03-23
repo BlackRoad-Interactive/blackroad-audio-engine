@@ -1,3 +1,11 @@
+# blackroad-audio-engine
+
+> Real-time audio synthesis and processing engine
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
 # BlackRoad Audio Engine
 
 Real-time audio synthesis and processing engine with oscillators, ADSR envelopes, filters, and WAV export.
